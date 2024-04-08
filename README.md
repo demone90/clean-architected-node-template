@@ -1,0 +1,1 @@
+# clean-architected-node-template
